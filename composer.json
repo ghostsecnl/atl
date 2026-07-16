@@ -1,9 +1,0 @@
-{
-  "name": "airport-taxi-limburg/php-site",
-  "description": "Airport Taxi Limburg — PHP herbouw",
-  "type": "project",
-  "require": {
-    "php": ">=7.4",
-    "phpmailer/phpmailer": "^6.9"
-  }
-}
